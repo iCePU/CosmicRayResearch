@@ -1,0 +1,24 @@
+G04 ---------------------------- Layer name :BOTTOM PASTER LAYER*
+G04 EasyEDA v5.6.10, Tue, 17 Jul 2018 20:10:34 GMT*
+G04 41f5d608da314f4496c1683ca2e9a323*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,3 integer and 3 decimal *
+%FSLAX33Y33*%
+%MOMM*%
+G90*
+G71D02*
+
+%ADD11R,0.999998X1.099998*%
+%ADD12R,0.599948X0.649986*%
+
+%LPD*%
+G54D11*
+G01X15808Y10159D03*
+G01X14209Y10159D03*
+G54D12*
+G01X15240Y8636D03*
+G01X14391Y8636D03*
+M00*
+M02*
